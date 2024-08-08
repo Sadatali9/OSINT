@@ -1,0 +1,13 @@
+beautifulsoup4
+requests
+lxml
+pdfminer
+pycryptodome
+python-whois
+python-nmap
+scapy
+dnslib
+tldextract
+urllib3
+selenium
+pyvirtualdisplay
